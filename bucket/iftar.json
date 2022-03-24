@@ -1,18 +1,18 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "description": "İftar vaktini öğrenebileceğiniz küçük bir uygulama",
     "homepage": "https://github.com/omerakgoz34/iftar",
     "license": "",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/omerakgoz34/iftar/releases/download/v0.2.1/iftar_v0.2.1_windows_amd64.zip",
-            "hash": "22c706f25bb422b59badfaf79092b38cc492e158acf473fa7c90ad0a3d30a2f6"
+            "url": "https://github.com/omerakgoz34/iftar/releases/download/v0.3.0/iftar_v0.3.0_windows_amd64.zip",
+            "hash": "5ff0d0742b7caf2ff16479cf2292f34db95bda65554c203aff9abcfdb84365df"
         }
     },
     "shortcuts": [
         [
             "iftar.exe",
-            "İftar"
+            "iftar"
         ]
     ],
     "checkver": "github",
